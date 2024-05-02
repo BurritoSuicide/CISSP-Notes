@@ -19,8 +19,7 @@ Answer: B.
 
 **Domain Overview:**
 
-**- Software Development Security: 10%
-**    
+1.) Software Development Security: 10%
 - Understand and integrate security in the Software Development Life Cycle (SDLC)
 - Identify and apply security controls in development environments
       - Security of the software environments
@@ -34,8 +33,7 @@ Answer: B.
       - Security of application programming interface
       - Secure programming practices
      
-**- Security Operations: 13%
-**  
+2.) Security Operations: 13% 
 - Understand and support investigations
     - Digital forensics
 - Conduct logging and monitoring activities
@@ -56,8 +54,7 @@ Answer: B.
     - Duress
     - Emergency management
 
-**- Security Assessment and Testing: 12%
-**  
+3.) Security Assessment and Testing: 12% 
 - Design and validate different types of assessment, test, and audit strategies for internal, external, and a third-party
 - Conduct Security Control Testing
     - Vulnerability assessment
@@ -65,8 +62,7 @@ Answer: B.
     - Software testing
 - Conduct or facilitate security audits
     
-**- Identify and Access Management: 13%
-**  
+4.) Identify and Access Management: 13% 
 - Manage identification and authentication
     - Single/multi-factor authentication
     - Accountability
@@ -81,8 +77,7 @@ Answer: B.
       - Mandatory Access Control (MAC)
       - Attribute Based Access Control (ABAC)
      
-**- Communication and Network Security: 14%
-**  
+5.) Communication and Network Security: 14% 
 - Secure design principles in network architectures
     - OSI MODEL (EXPECT A LOT)
     - IP networking
@@ -97,7 +92,7 @@ Answer: B.
     - Remote access
     - Virtualized networks
    
-**- Security Architecture and Engineering: 13%
+6.) Security Architecture and Engineering: 13%
 **  
 - Secure design principles and models
 - Assess and mitigate the vulnerabilities of security architectures
@@ -113,16 +108,14 @@ Answer: B.
     - Cryptanalysis
 - Physical Security
 
-**- Asset Security: 10%
-**  
+7.) Asset Security: 10% 
 - Classify information and assets
   - Determine and maintain information and asset ownership
   - Protect privacy
   - Ensure appropriate asset retention
   - Establish information and asset handling requirements
 
-**- Security and Risk Management: 15%
-**  
+8.) Security and Risk Management: 15% 
 - Understanding CIA
   - Security Governance
   - Laws and regulations
