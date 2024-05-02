@@ -92,8 +92,7 @@ Answer: B.
     - Remote access
     - Virtualized networks
    
-6.) Security Architecture and Engineering: 13%
-**  
+6.) Security Architecture and Engineering: 13%  
 - Secure design principles and models
 - Assess and mitigate the vulnerabilities of security architectures
     - Database systems
