@@ -1,5 +1,4 @@
-[
-
+```
 General notes:
   - Think like a manager.
   - If one choice wins over others, that is likely the answer (if I were to do one of these actions, which one is best).
@@ -19,7 +18,7 @@ As an example:
 Answer: B.
   - Why? Laws and regulations are more of a managerial answer. Additionally, laws and regulations answer **ALL** other answers.
 
-]
+```
 
 **Domain Overview:**
 
