@@ -1,24 +1,4 @@
-```
-General notes:
-  - Think like a manager.
-  - If one choice wins over others, that is likely the answer (if I were to do one of these actions, which one is best).
-  - If you are going with that choice, YOU ARE NOT DOING THE OTHER ACTIONS.
-  - Justify your answer.
-  - Don't add information to the question.
-  - Read everything carefully, take a little bit of time and breathe (do not add scenarios into questions).
-  - Do at least 100 questions a day.
-
-As an example:
-  - What is most important to consider when storing personally identifiable information about customers?
-    A.) Encryption Methods
-    B.) Laws and regulations
-    C.) Data Location
-    D.) Access controls
-
-Answer: B.
-  - Why? Laws and regulations are more of a managerial answer. Additionally, laws and regulations answer **ALL** other answers.
-
-```
+Study guide encapsulating every domain of CISSP. Will update with practice questions once I find a format that works well with github.
 
 **Domain Overview:**
 
@@ -126,3 +106,25 @@ Answer: B.
   - Business continuity plans
   - Personnel security procedures
   - Risk management
+ 
+```
+General notes:
+  - Think like a manager.
+  - If one choice wins over others, that is likely the answer (if I were to do one of these actions, which one is best).
+  - If you are going with that choice, YOU ARE NOT DOING THE OTHER ACTIONS.
+  - Justify your answer.
+  - Don't add information to the question.
+  - Read everything carefully, take a little bit of time and breathe (do not add scenarios into questions).
+  - Do at least 100 questions a day.
+
+As an example:
+  - What is most important to consider when storing personally identifiable information about customers?
+    A.) Encryption Methods
+    B.) Laws and regulations
+    C.) Data Location
+    D.) Access controls
+
+Answer: B.
+  - Why? Laws and regulations are more of a managerial answer. Additionally, laws and regulations answer **ALL** other answers.
+
+```
