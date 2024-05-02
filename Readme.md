@@ -1,0 +1,2 @@
+- Do at least 100 questions a day.
+- 
