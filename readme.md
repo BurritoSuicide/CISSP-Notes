@@ -1,10 +1,13 @@
-  1.) Think like a manager.
-  2.) If one choice wins over others, that is likely the answer (if I were to do one of these actions, which one is best).
-  3.) If you are going with that choice, YOU ARE NOT DOING THE OTHER ACTIONS.
-  4.) Justify your answer.
-  5.) Don't add information to the question.
-  6.) Read everything carefully, take a little bit of time and breathe (do not add scenarios into questions).
-  7.) Do at least 100 questions a day.
+[
+
+General notes:
+  - Think like a manager.
+  - If one choice wins over others, that is likely the answer (if I were to do one of these actions, which one is best).
+  - If you are going with that choice, YOU ARE NOT DOING THE OTHER ACTIONS.
+  - Justify your answer.
+  - Don't add information to the question.
+  - Read everything carefully, take a little bit of time and breathe (do not add scenarios into questions).
+  - Do at least 100 questions a day.
 
 As an example:
   - What is most important to consider when storing personally identifiable information about customers?
@@ -15,6 +18,8 @@ As an example:
 
 Answer: B.
   - Why? Laws and regulations are more of a managerial answer. Additionally, laws and regulations answer **ALL** other answers.
+
+]
 
 **Domain Overview:**
 
