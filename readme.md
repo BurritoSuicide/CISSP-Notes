@@ -20,7 +20,8 @@ Answer: B.
 **Domain Overview:**
 
 **- Software Development Security: 10%
-**    - Understand and integrate security in the Software Development Life Cycle (SDLC)
+**    
+- Understand and integrate security in the Software Development Life Cycle (SDLC)
     - Identify and apply security controls in development environments
       - Security of the software environments
       - Configuration management as an aspect of secure coding
@@ -34,7 +35,8 @@ Answer: B.
       - Secure programming practices
      
 **- Security Operations: 13%
-**  - Understand and support investigations
+**  
+- Understand and support investigations
     - Digital forensics
   - Conduct logging and monitoring activities
     -  Intrusion detection and prevention
@@ -55,7 +57,8 @@ Answer: B.
     - Emergency management
 
 **- Security Assessment and Testing: 12%
-**  - Design and validate different types of assessment, test, and audit strategies for internal, external, and a third-party
+**  
+- Design and validate different types of assessment, test, and audit strategies for internal, external, and a third-party
   - Conduct Security Control Testing
     - Vulnerability assessment
     - Pentesting
@@ -63,7 +66,8 @@ Answer: B.
   - Conduct or facilitate security audits
     
 **- Identify and Access Management: 13%
-**  - Manage identification and authentication
+**  
+- Manage identification and authentication
     - Single/multi-factor authentication
     - Accountability
     - Registration and proofing of identity
@@ -78,7 +82,8 @@ Answer: B.
       - Attribute Based Access Control (ABAC)
      
 **- Communication and Network Security: 14%
-**  - Secure design principles in network architectures
+**  
+- Secure design principles in network architectures
     - OSI MODEL (EXPECT A LOT)
     - IP networking
     - Software-defined networks
@@ -93,7 +98,8 @@ Answer: B.
     - Virtualized networks
    
 **- Security Architecture and Engineering: 13%
-**  - Secure design principles and models
+**  
+- Secure design principles and models
   - Assess and mitigate the vulnerabilities of security architectures
     - Database systems
     - Industrial Control Systems (ICS)
@@ -108,14 +114,16 @@ Answer: B.
   - Physical Security
 
 **- Asset Security: 10%
-**  - Classify information and assets
+**  
+- Classify information and assets
   - Determine and maintain information and asset ownership
   - Protect privacy
   - Ensure appropriate asset retention
   - Establish information and asset handling requirements
 
 **- Security and Risk Management: 15%
-**  - Understanding CIA
+**  
+- Understanding CIA
   - Security Governance
   - Laws and regulations
   - Security policies, standards, procedures, and guidelines
